@@ -1,0 +1,14 @@
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\model\Artist.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\model\Song.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\repository\ArtistRepository.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\repository\SongRepository.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\service\ArtistService.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\service\impl\ArtistServiceImpl.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\service\impl\SongServiceImpl.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\service\SongService.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\VpLab1Application.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\web\AddArtistToSongServlet.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\web\ArtistServlet.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\web\SelectSongServlet.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\web\SongDetailsServlet.java
+C:\Users\aleks\Documents\Programming\Java\VP_Lab1\src\main\java\mk\finki\ukim\mk\lab\web\SongListServlet.java
